@@ -26,6 +26,7 @@ h1 {
 }
 h2 {
     margin-top: 0;
+    color: rgb(223, 98, 119);
 }
 .skills ul, .projects ul {
     list-style-type: none;
