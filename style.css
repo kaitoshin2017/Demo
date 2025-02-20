@@ -3,6 +3,38 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+.container {
+    padding: 20px;
+}
+.about, .skills, .projects {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    margin-top: 0;
+}
+.skills ul, .projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+.skills li, .projects li {
+    margin-bottom: 10px;
+}
+=======
     text-align: center;
 }
 nav {
@@ -19,3 +51,4 @@ nav a {
 h1, h2, h3 {
     margin: 10px 0;
 }
+
