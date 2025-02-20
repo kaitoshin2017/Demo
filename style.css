@@ -10,3 +10,7 @@ h3{
     background-color: rgb(182, 115, 246);
     font-size: 30px;
 }
+nav{
+    background-color: grey;
+    padding-top: 20px;
+}
